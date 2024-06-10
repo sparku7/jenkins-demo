@@ -17,7 +17,7 @@ pipeline {
                 '''
             }
         }
-        stage('View') {
+        stage('View2') {
             steps {
                 bat '''
                 echo "Stage 3"
